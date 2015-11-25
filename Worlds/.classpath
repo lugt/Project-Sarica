@@ -5,7 +5,9 @@
 	<classpathentry kind="lib" path="/home/thedudefromci/eclipse/LWJGL/jar/lwjgl.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="jar:file:/home/thedudefromci/eclipse/LWJGL/doc/javadoc.zip!/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="/home/thedudefromci/eclipse/LWJGL/native"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/WraithEngine/bin"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
